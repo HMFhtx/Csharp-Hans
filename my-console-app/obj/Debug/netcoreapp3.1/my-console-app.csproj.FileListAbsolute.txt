@@ -1,0 +1,13 @@
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\bin\Debug\netcoreapp3.1\my-console-app.exe
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\bin\Debug\netcoreapp3.1\my-console-app.deps.json
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\bin\Debug\netcoreapp3.1\my-console-app.runtimeconfig.json
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\bin\Debug\netcoreapp3.1\my-console-app.runtimeconfig.dev.json
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\bin\Debug\netcoreapp3.1\my-console-app.dll
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\bin\Debug\netcoreapp3.1\my-console-app.pdb
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.csprojAssemblyReference.cache
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.AssemblyInfoInputs.cache
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.AssemblyInfo.cs
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.csproj.CoreCompileInputs.cache
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.dll
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.pdb
+C:\Users\hyunf\OneDrive\Skrivebord\Skole\Programmering\c#\my-console-app\obj\Debug\netcoreapp3.1\my-console-app.genruntimeconfig.cache

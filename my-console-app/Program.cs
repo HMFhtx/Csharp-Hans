@@ -27,7 +27,7 @@ class TowerOfHanoi
          if (n > 0)
          {
              movetower(n - 1, from, other, to);
-             Console.WriteLine("Move disk {0} from tower {1} to tower {2}", 
+             Console.WriteLine("Flyt disk {0} fra tårn {1} til tårn {2}", 
                                 n, from, to);
              movetower(n - 1, other, to, from);
          }
